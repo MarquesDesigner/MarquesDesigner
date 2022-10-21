@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true) 
+![Open Source at Microsoft](https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/banner/banner-TWITCH.png?raw=true) 
 
 
 - 👋 Hi, I’m @MarquesDesigner
