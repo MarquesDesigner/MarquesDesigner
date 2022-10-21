@@ -7,7 +7,7 @@
 
 <img src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" align="right" width="300">
 
-## <img width="20" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">MarquesDesigner(M0rdek4y)</a>
+## <img width="18" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">MarquesDesigner(M0rdek4y)</a>
 
 ### Redes Sociais
 - <a href="https://twitter.com/Marques_dsg" target="_blank" rel="external"> <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitter/kindpng_203710.png?raw=true" alt="Logo Twitter"> Twitter</a>
