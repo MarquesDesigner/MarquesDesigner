@@ -10,7 +10,7 @@
 ## Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 
 ### Redes Sociais
-- <a href="https://twitter.com/Marques_dsg">Twwitter</a>
+- <a href="https://twitter.com/Marques_dsg">Twitter</a>
 - <a href="https://www.instagram.com/marques_dsg/">Instagram</a>
 - <a href="https://www.twitch.tv/m0rdek4y_">Twitch</a>
 - <a href="https://www.behance.net/m0rdek4y_designer">Portfólio</a>
