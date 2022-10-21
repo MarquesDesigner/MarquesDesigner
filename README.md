@@ -7,7 +7,7 @@
 <h2>Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a></h2>
 
 
-- <p style="display: inline-block;" ><small>Desenvolvido por <strong>@MarquesDesigner(M0rdek4y)</strong></small></p>
+- <p><small>Desenvolvido por <strong>@MarquesDesigner(M0rdek4y)</strong></small></p>
 
 <!---
 MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
