@@ -1,6 +1,5 @@
-<style>
-  background-image: url('https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true');
-</style>
+![Open Source at Microsoft](https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true) 
+
 
 - 👋 Hi, I’m @MarquesDesigner
 # Este é o repositório profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
