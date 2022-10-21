@@ -21,7 +21,7 @@ Você tem o direito de usar esse material para seu próprio aprendizado. Profess
 
 <br><br>
 <hr>
-<p align="right" font-size="smaller" <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Desenvolvido por <strong><a href="https://github.com/MarquesDesigner">@MarquesDesigner (@M0rdek4y)</a></strong></p>
+<p align="right" styel="font-weight: lighter;" <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub"> Desenvolvido por <strong><a href="https://github.com/MarquesDesigner">@MarquesDesigner (@M0rdek4y)</a></strong></p>
 
 <!---
 MarquesDesigner/MarquesDesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
