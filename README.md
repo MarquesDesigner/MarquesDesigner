@@ -8,7 +8,8 @@
 <img src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" align="right" width="300">
 <h2> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a></h2>
 
-Direitos de uso
+## Direitos de uso
+
 Você tem todo o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso a todo o conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo Prof. Gustavo Guanabara. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
 
 - <p><small>Desenvolvido por <strong>@MarquesDesigner(M0rdek4y)</strong></small></p>
