@@ -8,6 +8,10 @@
 <img src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" align="right" width="300">
 <h2> Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a></h2>
 
+### Redes Sociais
+
+
+
 ## Direitos de uso
 
 Você tem o direito de usar esse material para seu próprio aprendizado. Professores também podem ter acesso ao conteúdo e usá-los com seus alunos. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo <a href="https://github.com/MarquesDesigner">@MarquesDesigner (@M0rdek4y)</a>. Os conteúdos não poderão ser utilizados em nenhuma hipótese para serem replicados - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
