@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MarquesDesigner
 
-# <img width="32" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">MarquesDesigner(M0rdek4y)</a>
+# <img width="27" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="logo GitHub">Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">MarquesDesigner(M0rdek4y)</a>
 
 <img src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" align="right" width="300">
 
