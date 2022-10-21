@@ -10,8 +10,9 @@
 ## Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a>
 
 ### Redes Sociais
-
-
+- https://twitter.com/Marques_dsg
+- https://www.instagram.com/marques_dsg/
+- https://twitter.com/Marques_dsg
 
 ## Direitos de uso
 
