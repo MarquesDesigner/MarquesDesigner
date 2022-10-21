@@ -12,7 +12,7 @@
 ### Redes Sociais
 - <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitter/kindpng_203710.png?raw=true" alt="Logo Twitter"><a href="https://twitter.com/Marques_dsg">Twitter</a>
 - <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Instagram/Instagram_logo.png?raw=true" alt="Logo Instagram"><a href="https://www.instagram.com/marques_dsg/">Instagram</a>
-- <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="Logo Twitch"><a href="https://www.twitch.tv/m0rdek4y_">Twitch</a>
+- <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/Twitch/160193.png?raw=true" alt="Logo Twitch"><a href="https://www.twitch.tv/m0rdek4y_">Twitch</a>
 - <img width="16" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/GitHub/GitHub-Mark-Light-32px.png?raw=true" alt="Logo Behance"><a href="https://www.behance.net/m0rdek4y_designer">Portfólio Digital</a>
 
 ## Direitos de uso
