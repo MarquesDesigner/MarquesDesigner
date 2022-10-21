@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MarquesDesigner
 # Este é o perfil profissional do <a href="https://github.com/MarquesDesigner/" target="_blank" rel="external">M0rdek4y</a>
-<p><img style="width: 200px; align: right;" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" alt="LogoAlien"></p>
+<img style="width: 200px; align: right;" src="https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/png/logos/logo.png?raw=true" alt="LogoAlien">
 <h2>Este é o perfil não profissional do <a href="https://github.com/M0rdek4y/" target="_blank" rel="external">M0rdek4y</a></h2>
 
 
