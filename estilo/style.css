@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+
+* {
+    font-family: "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    padding: 0px;
+    line-height: 25px;
+}
+
+html, body {
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    background-image: url(https://github.com/M0rdek4y/Repositorio-de-midia/blob/master/media/images/gif/hacking.gif?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    width: 100%;
+    background-color: #ffffff31;
+    padding-bottom: 20px;
+}
+
+div#body {
+    margin: auto;
+    padding: 32px;
+    max-width: 1184px;
+    min-width: 300px;
+    border-radius: 6px;
+    border: 1px solid rgb(122, 130, 142);
+    background-color: #0A0C10;
+}
+
+header, main , footer{
+    background-color: #0A0C10;
+    margin: auto;
+}
+
+#banner {
+    max-width: 100%;
+}
+
+h1 {
+    line-height: 40px;
+    padding-bottom: .3em;
+    font-size: 2em;
+    margin-bottom: 16px;
+    border-bottom:  1px solid rgb(122, 130, 142);
+    box-sizing: border-box;
+}
+
+h2 {
+    line-height: 30px;
+    margin-bottom: 16px;
+    margin-top: 44px;
+    padding-bottom: 7.2px;
+    font-weight: 600px;
+    border-bottom: 1px solid rgb(122, 130, 142);
+}
+
+h3 {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 600;
+    font-size: 1.25em;
+
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    margin-block-end: 16px;
+    padding-inline-start: 32px;
+    margin-bottom: 16px;
+    padding-left: 32px;
+}
+
+li {
+    box-sizing: border-box;
+    margin-top: 4px;
+    font-weight: 400;
+}
+
+img#et {
+    float: right;
+    max-width: 26%;
+    padding-top: 50px;
+    padding-left: 20px;
+    width: 300px;
+    background-color: rgb(10, 12, 16);
+
+}
+
+a {
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: rgb(113, 183, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    box-sizing: content-box;
+    display: block;
+    height: 4px;
+    margin-bottom: 24px;
+    overflow: 0px;
+    padding: 0px;
+    color: rgb(240, 243, 246);
+    background-color: rgb(122, 130, 142);
+    background-origin: padding-box;
+    background-clip: border-box;
+    background-attachment: scroll;
+    border: 0px;
+}
+
+footer {
+    line-height: 0px;
+}
+
+footer > p{
+    text-align: center;
+    margin: 0%;
+
+}
+
+.namefooter {
+    font-size: .8em;
+}
